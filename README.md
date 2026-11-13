@@ -8,6 +8,7 @@ Computer science student at SZABIST Islamabad (class of 2027), aiming for DevOps
 
 | Project | What it shows |
 |---|---|
+| [tillercast](https://github.com/rayyan-mustafa/tillercast) | Solo video SaaS case study: GitHub Actions CI/CD, GHCR images, Drizzle migrations, double-entry ledger |
 | [Brain-Tumor-Cloud-Deployment](https://github.com/rayyan-mustafa/Brain-Tumor-Cloud-Deployment) | Terraform provisions AWS EC2; user-data installs Docker and starts the model on boot |
 | [Research-Agent](https://github.com/rayyan-mustafa/Research-Agent) | Dockerized LangChain + Gemini app; GitHub Actions builds and pushes the image to GHCR |
 | [kernel-sentinel](https://github.com/rayyan-mustafa/kernel-sentinel) | Linux syscall monitor in C: ptrace, named pipes, pthreads, semaphores; CI build on every push |
